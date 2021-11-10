@@ -3,7 +3,6 @@ description: 07/08/2021
 ---
 
 # A desfiguração de Cristo
-
     
     <p>&emsp;Acreditar em Deus sempre implica em um comprometimento que, no fim das contas, diz mais sobre quem crê do que sobre Deus - mais ou menos como o Pedro de 
       Freud, que quando fala sobre Paulo, revela mais de si mesmo do que de Paulo.</p>
