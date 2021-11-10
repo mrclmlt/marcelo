@@ -1,5 +1,4 @@
 * ["Deus acima de tudo"](antDeusac.md)
----
 * [Conversão e liberdade](antconvlib.md)
 * [A corrosão da liberdade](antcorrlib.md)
 * [A desfiguração de Cristo](antdesfig.md)
