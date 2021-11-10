@@ -1,5 +1,6 @@
 ---
-description: 27/08/2021---
+description: 27/08/2021
+---
 
 # Isenção espiritual #1
 
