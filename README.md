@@ -4,8 +4,7 @@ description: um blog
 
 # Página inicial
 
-Index do site
-
+pg inic
 
 ---
 [twitter](https://twitter.com/mrclmlt) | [facebook](https://www.facebook.com/mrclmlt) | [✉](mailto:mrclmlt@gmail.com) 
