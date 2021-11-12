@@ -1,4 +1,4 @@
-* [início}(inicio.md)
+* [início](inicio.md)
 * [A submissão às autoridades constituídas](2021-11-07.md)
 * ["Deus acima de tudo"](antDeusac.md)
 * [Conversão e liberdade](antconvlib.md)
