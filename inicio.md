@@ -1,5 +1,5 @@
 ---
-description: contato: [twitter](https://twitter.com/mrclmlt) | [facebook](https://www.facebook.com/mrclmlt) | [✉](mailto:mrclmlt@gmail.com)
+description: contato [twitter](https://twitter.com/mrclmlt) | [facebook](https://www.facebook.com/mrclmlt) | [✉](mailto:mrclmlt@gmail.com)
 ---
 
 # Página inicial #
