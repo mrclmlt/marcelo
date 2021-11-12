@@ -15,4 +15,4 @@ description: 23/09/2021
 <p>&emsp;Talvez demore para descobrir que Deus não passa pano para atrocidades e injustiças (se nem mesmo para Moisés Deus passou pano, tanto é que o impediu de entrar na Terra Prometida por muito menos que atrocidades e injustiças), e enquanto Deus age por seus caminhos misteriosos e nos seus tempos insondáveis, cabe a nós, pelos caminhos que Deus nos mostra e no tempo que ele nos deixa conhecer, agir como o próprio Deus, não enquanto Todo-poderoso, mas enquanto opositor ferrenho das atrocidades e injustiças contra a sua criação, especialmente quando estas injustiças e atrocidades são contra seus filhos e suas filhas.</p>
 
 ***
-[twitter](https://twitter.com/mrclmlt) | [facebook](https://www.facebook.com/mrclmlt) | [✉](mailto:mrclmlt@gmail.com?subject=Sobre o texto "Deus acima de tudo")
+[twitter](https://twitter.com/mrclmlt) | [facebook](https://www.facebook.com/mrclmlt) | [✉](mailto:mrclmlt@gmail.com)
