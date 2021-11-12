@@ -10,3 +10,5 @@ description: 18/09/2021
 <p>&emsp;Enquanto assistimos a isto, corre-se o sério risco de que alguma hora apareça alguém dizendo "agora chega, eu vou botar ordem nisto" e a maioria aceitar de bom grado.</p>
 <p>&emsp;Acho que bolsonaro não é bem um (exclusivamente no sentido figurado) anti-cristo, mas sim um anti-joãobatista, uma espécie de anti-precursor que vai aplainando os caminhos de quem venha para, este sim, completar o trabalho da repressão.</p>
 <p>&emsp;Não digo que isto esteja na iminência de acontecer, como se eu soubesse de coisas que os outros não sabem. Mas tenho as minhas suspeitas de que forçar a democracia e a liberdade até os seus limites possa levar a maioria a, em algum momento, rejeitar a liberdade, pelo menos se assimilar como sendo legítimos estes abusos deste governo contra ela.</p>
+
+[twitter](https://twitter.com/mrclmlt) | [facebook](https://www.facebook.com/mrclmlt) | [✉](mailto:mrclmlt@gmail.com)
